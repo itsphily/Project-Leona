@@ -1,4 +1,4 @@
-# Full-Stack Python Chatbot with LangGraph
+# Full-Stack Python Chatbot with LangGraph -- For Leona
 
 [![CI](https://github.com/langchain-ai/langgraph-fullstack-python/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/langchain-ai/langgraph-fullstack-python/actions/workflows/unit-tests.yml)
 [![Integration Tests](https://github.com/langchain-ai/langgraph-fullstack-python/actions/workflows/integration-tests.yml/badge.svg)](https://github.com/langchain-ai/langgraph-fullstack-python/actions/workflows/integration-tests.yml)
